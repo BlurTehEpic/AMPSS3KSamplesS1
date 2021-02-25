@@ -1,0 +1,6 @@
+<BizHawk-XMLGame System="GEN" Name="s1built">
+  <LoadAssets>
+    <Asset FileName="." />
+    <Asset FileName="..\Desktop\Rom Hacks Dissasemblys\Sonic 1 S3k Sample test\AMPS-Sonic-1-Git-master" />
+  </LoadAssets>
+</BizHawk-XMLGame>
